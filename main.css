@@ -1,0 +1,37 @@
+body {
+    background-color:#777; 
+    font-family: "Avenir-Medium", "Verdana", sans-serif;
+    color: #101020;
+    }
+    
+header h1 {
+    font-size: 0.7em;
+    }
+    
+img.centered_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+
+div.main_container {
+    margin-top: 2.5em;
+    min-height: 5em;
+    padding: 1em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /*vertical-align: middle;*/
+    width: 70%;
+    background-color: #888;
+    border: solid thin black;
+    border-radius: 1em;
+    /*box-shadow: black 0.1em 0.1em 0.05em */
+    }
+    
+p.slogan {
+    text-align: center;
+    }
+    
+address.us {
+    margin-top: -0.8em;
+    }
