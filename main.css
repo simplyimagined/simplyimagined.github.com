@@ -28,10 +28,15 @@ div.main_container {
     /*box-shadow: black 0.1em 0.1em 0.05em */
     }
     
+p.copyright {
+    margin-top: -0.05em;
+    font-size: 0.7em;
+    }
+    
 p.slogan {
     text-align: center;
     }
     
 address.us {
-    margin-top: -0.8em;
+    margin-top: 3em;
     }
